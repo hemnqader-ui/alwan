@@ -17,3 +17,9 @@ https://ais-dev-p65lloufu6y2waeb65rk6l-690128072146.europe-west2.run.app/embed/r
 
 #EXTINF:-1 tvg-id="4qurna_tv" tvg-name="4QURNA TV 4K" tvg-logo="https://raw.githubusercontent.com/zaynohardy/iptv-assets/main/4qurna.png" group-title="|KRD|کورد لۆکاڵ",چوارقوڕنە TV 4K
 https://ais-dev-p65lloufu6y2waeb65rk6l-690128072146.europe-west2.run.app/embed/4qurna.html
+https://ais-dev-p65lloufu6y2waeb65rk6l-690128072146.europe-west2.run.app/ranya.m3u8https://ais-dev-p65lloufu6y2waeb65rk6l-690128072146.europe-west2.run.app/embed/ranya.html#EXTM3U
+#EXTINF:-1 tvg-id="ranya_sat" tvg-name="RANYA SAT 4K" tvg-logo="https://raw.githubusercontent.com/zaynohardy/iptv-assets/main/ranya.png" group-title="|KRD|کورد لۆکاڵ",ڕانیە SAT 4K
+https://ais-dev-p65lloufu6y2waeb65rk6l-690128072146.europe-west2.run.app/embed/ranya.html
+
+#EXTINF:-1 tvg-id="4qurna_tv" tvg-name="4QURNA TV 4K" tvg-logo="https://raw.githubusercontent.com/zaynohardy/iptv-assets/main/4qurna.png" group-title="|KRD|کورد لۆکاڵ",چوارقوڕنە TV 4K
+https://ais-dev-p65lloufu6y2waeb65rk6l-690128072146.europe-west2.run.app/embed/4qurna.htmlhttps://ais-dev-p65lloufu6y2waeb65rk6l-690128072146.europe-west2.run.app/4qurna.m3u8
