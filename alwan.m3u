@@ -23,3 +23,11 @@ https://ais-dev-p65lloufu6y2waeb65rk6l-690128072146.europe-west2.run.app/embed/r
 
 #EXTINF:-1 tvg-id="4qurna_tv" tvg-name="4QURNA TV 4K" tvg-logo="https://raw.githubusercontent.com/zaynohardy/iptv-assets/main/4qurna.png" group-title="|KRD|کورد لۆکاڵ",چوارقوڕنە TV 4K
 https://ais-dev-p65lloufu6y2waeb65rk6l-690128072146.europe-west2.run.app/embed/4qurna.htmlhttps://ais-dev-p65lloufu6y2waeb65rk6l-690128072146.europe-west2.run.app/4qurna.m3u8
+<iframe 
+  src="https://ais-pre-dcdxo75di2bfth4cokp6az-167083655366.europe-west2.run.app/embed/tv-news-kurd.html" 
+  width="100%" 
+  height="100%" 
+  frameborder="0" 
+  allow="autoplay; fullscreen" 
+  allowfullscreen>
+</iframe>
